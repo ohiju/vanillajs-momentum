@@ -3,7 +3,7 @@
 This is a project done by Vanilla JavaScript, cloning an app named Momentum.
 
 ## Goals
-- Only using Vanilla JS, cloning:
+- Only using Vanilla JS, cloning: <br>
 <img src="![momentum](https://user-images.githubusercontent.com/94172351/235044456-a33da295-7408-4a17-a5de-be2a9c55aa55.jpg)">
 
 - A clock and a greeting quote on the center
