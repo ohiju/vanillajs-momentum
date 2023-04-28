@@ -13,4 +13,3 @@ This is a project done by Vanilla JavaScript, cloning an app named Momentum.
 - Current weather and location information on the right-top side
 <br>
 The result should look like this: <br>
-![momentum clone](https://user-images.githubusercontent.com/94172351/235045113-d1dbd3bb-d555-4edd-8d63-3287b036ec75.png)
