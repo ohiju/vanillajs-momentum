@@ -1,4 +1,4 @@
-const API_KEY = "68817d1a9881f4afa06d99a265064edc";
+const API_KEY = MOMENTUM_APP_WEATHER_API_KEY;
 
 function onGeoOk(position){
     const lat = position.coords.latitude;
