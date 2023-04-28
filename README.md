@@ -12,5 +12,5 @@ This is a project done by Vanilla JavaScript, cloning an app named Momentum.
 - A Link Storage on the left-top side
 - Current weather and location information on the right-top side
 <br>
-The result should look like this: <br>
+The result should look like this:
 ![momentum clone](https://user-images.githubusercontent.com/94172351/235045311-75b94685-f87b-45dd-beee-ab3113202352.png)
